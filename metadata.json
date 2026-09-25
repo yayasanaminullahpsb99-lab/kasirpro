@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro Enterprise POS",
+  "description": "Sistem Point of Sale (POS) dan Aplikasi Kasir Enterprise Lengkap dengan Manajemen Inventaris, Multi-Role RBAC, Thermal Printer Struk, dan Analisis Penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
